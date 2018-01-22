@@ -1,3 +1,7 @@
+if RUBY_VERSION == '2.3.1'
+  p 'このバージョンだとテストファイルの読み込みに失敗するよ'
+  exit
+end
 require 'minitest/autorun'
 require './problem'
 
