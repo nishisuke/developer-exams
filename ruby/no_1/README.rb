@@ -1,3 +1,7 @@
+## 解答方法
+github のprivate gistにproblem.rbの内容を貼り付けて,
+そのprivate gistのurlをこちらに知らせてください.
+
 ## 問題
 以下コマンドで実行できるテストが通るようにしてください.
 
