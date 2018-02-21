@@ -26,6 +26,6 @@ class ProblemTest < Minitest::Test
 
   def test_case_2
     res = @bank.exchange(@yen_500, :usd)
-    assert_equal @dollar_5, res
+    assert_equal [@dollar_5], res
   end
 end
